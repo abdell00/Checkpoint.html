@@ -7,3 +7,4 @@ if (nam11 == 10){
 else {
     console.log('false')
 }
+alert('hi!');
